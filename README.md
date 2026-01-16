@@ -873,3 +873,8 @@ Geographic analysis highlighted the cultural and institutional forces behind lan
 Taken together, these findings show that the programming‑language landscape is not chaotic but deeply structured. It evolves through a combination of historical inheritance, academic research, corporate engineering needs, and community creativity. Popularity and influence often diverge, and the most impactful ideas frequently originate in small, specialized languages before spreading into mainstream tools.
 
 Ultimately, this project demonstrates that programming languages form an ecosystem — one shaped by lineage, geography, paradigm, and purpose. Understanding this ecosystem helps us appreciate not only where our tools come from, but also how future languages may emerge, evolve, and influence the next generation of developers.
+
+# APPENDIX
+- [Github_Repository](https://github.com/luis-c2255/EDA_programming_languages/blob/main/assets/charts/Lang.ipynb)
+- [Original_dataset](https://www.kaggle.com/datasets/hammadfarooq470/worlds-most-influential-programming-languages)
+- [Enhanced_dataset](https://github.com/luis-c2255/EDA_programming_languages/blob/main/assets/images/df_lang.csv)
